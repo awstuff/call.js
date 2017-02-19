@@ -1,0 +1,22 @@
+{
+  "name": "secure-call",
+  "version": "1.0.0",
+  "description": "Secure callback invocation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awstuff/secure-call.git"
+  },
+  "keywords": [
+    "callback"
+  ],
+  "author": "Adrian Wirth <adrian.wirth@yahoo.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awstuff/secure-call/issues"
+  },
+  "homepage": "https://github.com/awstuff/secure-call#readme"
+}
