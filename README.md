@@ -1,5 +1,5 @@
 # secure-call
-Secure callback invocation. `secure-call` encapsulates callback validation and calling into one simple function call. This means it checks whether the specified callback exists and is valid before calling it. 
+Secure callback invocation. `secure-call` encapsulates callback validation and invocation into one simple function call. This means it checks whether the specified callback exists and is valid before calling it. 
 
 ## Installation
 `npm install secure-call`
