@@ -1,6 +1,6 @@
 {
   "name": "secure-call",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Secure callback invocation",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "callback"
   ],
-  "author": "Adrian Wirth <adrian.wirth@yahoo.de>",
+  "author": "Adrian Wirth <dev@adrianwirth.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/awstuff/secure-call/issues"
